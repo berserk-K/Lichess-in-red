@@ -20,3 +20,5 @@ how to install:
 7. enjoy:)
 
 For any problems (or if you want to have another color) contact me at Lichess (Krukulu)
+
+to have a VERY red Lichess, you can install this: https://github.com/berserk-K/red-moves-on-lichess.org
