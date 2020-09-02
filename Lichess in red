@@ -1,0 +1,5 @@
+body {
+    background: #ed220b linear-gradient(to bottom, #931f1f, #c98847 116px) no-repeat;
+    color: #a1293afc;
+    overflow-x: hidden;
+}
